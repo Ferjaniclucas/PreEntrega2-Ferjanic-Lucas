@@ -1,0 +1,9 @@
+#galeria-trabajos img{
+    display: flex;
+    flex-direction: row;
+    width: 300px;
+    border-radius: 10%;
+    margin: 0 auto;
+    padding: 10px;}
+
+ 
